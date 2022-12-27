@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672176346 source:c:\users\hp\desktop\arif_coding2\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<string>
+	<fstream>
+
